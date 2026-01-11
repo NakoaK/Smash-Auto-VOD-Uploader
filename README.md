@@ -1,6 +1,7 @@
 AutoVOD 1.0
 Created by Sage Severson
 
+A tool designed to auto-upload VODs saved between recordings in OBS directly to YouTube with all metadata filled.
 
 Instructions:
 
