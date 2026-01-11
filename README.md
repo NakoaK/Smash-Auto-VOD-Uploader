@@ -1,11 +1,8 @@
-# Smash-Auto-VOD-Uploader
-Smash Tournament Auto-Upload OBS recordings to YouTube
-
-STEPS TO RUN OBS_AUTO-UPLOADER
-
+AutoVOD 1.0
 Created by Sage Severson
 
 
+Instructions:
 
 1) Ensure OBS is installed
 
@@ -21,7 +18,8 @@ Created by Sage Severson
 3) Creating Google OAuth Key:
 
 
-This is required by Google. Will ask for some details such as contact email but since you won't share this project this won't be relevant.
+*This is required by Google. Will ask for some details such as contact email but since you won't share this project this won't be relevant.*
+
 
 
 	I) Go to Enable APIs and Services
@@ -78,6 +76,7 @@ This is required by Google. Will ask for some details such as contact email but 
 
 
 	VIII) Put file in C:\OBS_AutoUploader
+
 
 
 4) Run install_dependencies.bat in the OBS_AutoUploader root folder
